@@ -33,26 +33,23 @@ namespace ProductApps
             set { totalPayment = value; }
         }
 
-        public decimal ChargePayment
-        {
-            get;set;
-        }
 
-        public decimal WrapPayment { get; set; }
-        private decimal Delivery
+
+
+        public decimal Delivery
         {
             get { return delivery; }
             set { delivery = value; }
         }
 
 
-        private decimal Wrapping
+        public decimal Wrapping
         {
             get { return wrapping; }
             set { wrapping = value; }
         }
 
-        private decimal GST
+        public decimal GST
         {
             get { return gst; }
             set { gst = value; }
@@ -73,12 +70,17 @@ namespace ProductApps
 
         public void calChargePayment()
         {
-            ChargePayment = TotalPayment + 25;
+            Delivery = TotalPayment + 25;
         }
 
         public void calWrapPayment()
         {
-            WrapPayment = ChargePayment + 5;
+            Wrapping = Delivery + 5;
+        }
+        public void calGSTPayment()
+        {
+            double gstValue = 1.1;
+            GST = Wrapping*(decimal)gstValue;
         }
     }
 }
