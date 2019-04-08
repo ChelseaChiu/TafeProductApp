@@ -37,6 +37,8 @@ namespace ProductApps
         {
             get;set;
         }
+
+        public decimal WrapPayment { get; set; }
         private decimal Delivery
         {
             get { return delivery; }
@@ -72,6 +74,11 @@ namespace ProductApps
         public void calChargePayment()
         {
             ChargePayment = TotalPayment + 25;
+        }
+
+        public void calWrapPayment()
+        {
+            WrapPayment = ChargePayment + 5;
         }
     }
 }

@@ -76,3 +76,16 @@ C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps
 C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
 C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
 C:\MyProduct\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csprojResolveAssemblyReference.cache
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\MyWarp\TafeProductApp\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache
